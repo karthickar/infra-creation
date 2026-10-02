@@ -5,7 +5,7 @@ variable "access_key" {}
 variable "secret_key" {}
 variable "aws_key_pair_name" {}
 variable db_username{}
-variable db_***REMOVED***{}
+variable db_password{}
 variable app_name{}
 
 variable count{

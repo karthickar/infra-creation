@@ -48,7 +48,7 @@
     },
 
     "DBPassword": {
-      "Default": "mydb***REMOVED***",
+      "Default": "mydbpassword",
       "NoEcho": "true",
       "Description" : "Password for MySQL database access",
       "Type": "String",
